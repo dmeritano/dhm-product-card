@@ -1,6 +1,6 @@
 # DHM-Product-Card
 
-This is a test package for deployment in NPM
+This is a test package for deployment in NPM - REACT JS
 
 ### David Meritano
 
